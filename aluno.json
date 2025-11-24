@@ -1,0 +1,15 @@
+{
+  "nome": "gean",
+  "vestibular": "2025",
+  "avaliacoes": {
+    "Matemática": 2,
+    "Português": 3,
+    "Física": 4,
+    "Química": 5,
+    "Biologia": 2,
+    "História": 1,
+    "Geografia": 2,
+    "Inglês": 3,
+    "redação": 4
+  }
+}
